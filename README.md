@@ -6,5 +6,5 @@ The script are still in development, and the main script will be coming out soon
 Our goal is to be able to generate parameters that accurately describe photoswitches (mainly those derived from azobenzene) throughout a complete isomerization process, in essence (and for an azobenzene-like photoswitch) we can divide in 3 main parameters: trans- ; "TS" ; cis-. Fortunately, trans- and cis- parameters tend to be the same, or similar enough to be transferable. 
 
 <p align="center">
-  <img src="logo-switch-turner.png" alt="Logo" width="200">
+  <img src="logo-switch-turner.png" alt="Logo" width="600">
 </p>
